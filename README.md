@@ -26,11 +26,11 @@ Example:
 account_id            = "1234567890"
 aws_region            = "us-east-1"
 app_name              = "test-site"
-git_repository_owner  = "mamadou-balde"
+git_repository_owner  = "Mamadoubalde"
 git_repository_name   = "sample-static"
 git_repository_branch = "master"
 env_name              = "Development"
-source_repo           = "https://github.com/mamadou-balde/tf-mamadou-fin"
+source_repo           = "https://github.com/Mamadoubalde/cicd-codepipeline-static-website"
 developer             = "Mamadou Balde"
 ```
 
